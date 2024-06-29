@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compound_data_types" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/control_flow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_type" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/enum_ch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exception" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/funtions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generic_ch/generic_type" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generic_ch/traits" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rock-paper-scissors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/struct_ch/struct_example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/struct_ch/struct_instance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/struct_ch/struct_method" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/struct_ch/struct_tuple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/variables" vcs="Git" />
+  </component>
+</project>
