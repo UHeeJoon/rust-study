@@ -16,6 +16,10 @@
       <sourceFolder url="file://$MODULE_DIR$/struct_ch/struct_tuple/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/generic_ch/generic_type/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/generic_ch/traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic_ch/lifetimes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webAssembly_ch/hello-wasm/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webAssembly_ch/hello-wasm/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/webAssembly_ch/webAssembly/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/compound_data_types/target" />
       <excludeFolder url="file://$MODULE_DIR$/control_flow/target" />
       <excludeFolder url="file://$MODULE_DIR$/data_type/target" />
@@ -30,6 +34,9 @@
       <excludeFolder url="file://$MODULE_DIR$/struct_ch/struct_tuple/target" />
       <excludeFolder url="file://$MODULE_DIR$/generic_ch/generic_type/target" />
       <excludeFolder url="file://$MODULE_DIR$/generic_ch/traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/generic_ch/lifetimes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/webAssembly_ch/hello-wasm/target" />
+      <excludeFolder url="file://$MODULE_DIR$/webAssembly_ch/webAssembly/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
